@@ -23,5 +23,5 @@ def longest_valid_parentheses(s):
     return ans
 
 
-s = input("Enter parenthesess string: ")
+s = input("Enter parentheses string: ")
 print("Longest valid parentheses length:", longest_valid_parentheses(s))
